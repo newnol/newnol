@@ -67,28 +67,6 @@ focus:
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=newnol&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=newnol&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newnol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=newnol&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
