@@ -22,7 +22,8 @@ role: CS Student & AI/DevOps Enthusiast
 location: Ho Chi Minh City, Vietnam
 education: HCMUS (University of Science - VNUHCM)
 specialization:
-  - Knowledge Technology
+  - Linux Operating Systems
+  - DevOps & Containerization
   - Computer Networks
 focus:
   - AI Systems & LLM Pipelines
@@ -33,7 +34,7 @@ focus:
 - 🎓 **Computer Science student** at HCMUS
 - 🧠 Passionate about **AI Systems**, **DevOps**, and **Cybersecurity**
 - 💻 Love building **intelligent developer tools** and maintaining **Proxmox/Docker clusters**
-- ✍️ Technical writer at [blog.newnol.io.vn](https://blog.newnol.io.vn)
+- ✍️ Technical writer at [newnol.io.vn](https://newnol.io.vn)
 - 🏗️ Builder of smart & self-hosted systems
 
 ---
@@ -43,18 +44,21 @@ focus:
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Infrastructure
+
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +67,7 @@ focus:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
@@ -90,7 +94,7 @@ focus:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newnol&theme=tokyo-night&hide_border=true)](https://github.com/newnol)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newnol&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -116,10 +120,8 @@ focus:
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=newnol.newnol)
+![Profile Views](https://komarev.com/ghpvc/?username=newnol&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 **Made with ❤️ by Newnol**
 
 </div>
-
----
