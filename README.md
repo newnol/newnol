@@ -31,11 +31,15 @@ focus:
   - Cybersecurity & CTF Challenges
 ```
 
-- 🎓 **Computer Science student** at HCMUS
-- 🧠 Passionate about **AI Systems**, **DevOps**, and **Cybersecurity**
-- 💻 Love building **intelligent developer tools** and maintaining **Proxmox/Docker clusters**
-- ✍️ Technical writer at [newnol.io.vn](https://newnol.io.vn)
-- 🏗️ Builder of smart & self-hosted systems
+---
+
+## 🎵 Currently Listening
+
+<div align="center">
+
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=2FuiaZNqFVnbVOKX9PS6Po&userName=Chill+Playlist&style=liquid&color=000000)](https://github.com/newnol/newnol)
+
+</div>
 
 ---
 
