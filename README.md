@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ngô Tấn Tài (Newnol)
+# Hi there, I'm Ngô Tấn Tài (Newnol)
 
 <div align="center">
 
@@ -12,28 +12,41 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
-name: Ngô Tấn Tài
-role: CS Student & AI/DevOps Enthusiast
-location: Ho Chi Minh City, Vietnam
-education: HCMUS (University of Science - VNUHCM)
-specialization:
-  - Linux Operating Systems
-  - DevOps & Containerization
-  - Computer Networks
-focus:
-  - AI Systems & LLM Pipelines
-  - DevOps & Self-Hosted Solutions
-  - Cybersecurity & CTF Challenges
+identity:
+  name: Ngô Tấn Tài (Taitan)
+  role: DevOps & Cloud Native Enthusiast
+  education: 3rd Year IT Student @ HCMUS
+  location: Ho Chi Minh City, Vietnam
+
+specialties:
+  - Cloud Native Infrastructure & CI/CD
+  - AI Platforms & Agentic Workflows
+  - Network Performance & Security
+
+homelab_stack:
+  domain: selfhost.io.vn
+  core: [Proxmox, Docker, Nginx Proxy Manager, Cloudflare]
+  ai_stack: [LiteLLM, Open WebUI, Ollama]
+  security: [Fail2ban, Cloudflare Tunnel, SSH Key Management]
+
+technical_toolbox:
+  programming: [Go, Python (FastAPI, PydanticAI), C++, Bash]
+  devops: [Docker, Jenkins, GitLab CI/CD, Kubernetes]
+  networking: [TCP BBR/Cubic, BGP/OSPF, NS-3, GNS3]
+
+achievements:
+  - 🥈 Second Prize | Dockerfile Contest 2025 (Python Category)
+  - 🌐 Managing personal Homelab & Self-hosted services
 ```
 
 ---
 
-## 🎵 Currently Listening
+## Currently Listening
 
 <div align="center">
 
@@ -43,7 +56,7 @@ focus:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,7 +85,7 @@ focus:
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -82,7 +95,7 @@ focus:
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -96,9 +109,9 @@ focus:
 
 <div align="center">
 
-### 💬 Quote of the Day
+### Quote of the Day
 
-*"Building intelligent systems that run themselves — from homelab to AI agents."*
+*"I know what i don't know"*
 
 ---
 

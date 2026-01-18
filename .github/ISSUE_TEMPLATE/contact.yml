@@ -1,0 +1,58 @@
+name: 💬 Contact / Leave a Message
+description: Gửi message, câu hỏi hoặc feedback cho tôi
+title: "[Contact] "
+labels: ["contact", "question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Cảm ơn bạn đã ghé thăm! Hãy điền form bên dưới để liên hệ với tôi.
+        
+  - type: input
+    id: name
+    attributes:
+      label: Tên của bạn
+      placeholder: Nhập tên của bạn
+      value: ""
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email (tùy chọn)
+      placeholder: your.email@example.com
+      value: ""
+    validations:
+      required: false
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Loại tin nhắn
+      options:
+        - Câu hỏi / Question
+        - Hợp tác / Collaboration
+        - Feedback / Góp ý
+        - Chỉ muốn chào / Just saying hi
+        - Khác / Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: message
+    attributes:
+      label: Nội dung tin nhắn
+      placeholder: Viết tin nhắn của bạn ở đây...
+      value: ""
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Xác nhận
+      options:
+        - label: Tôi đồng ý với việc thông tin này sẽ được công khai trên GitHub
+          required: true
+
